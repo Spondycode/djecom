@@ -1,3 +1,5 @@
+# STORE VIEWS.PY
+
 from django.shortcuts import render
 
 
